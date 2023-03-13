@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganiyu Abdulwajeed</h1>
 <h3 align="center">I'm a motivated data scientist looking for an internship opportunity. I'm passionate about data analysis, machine learning, and creating data-driven solutions to real-world problems.</h3>
-<img align="right" width="400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllACNvW2HWUCatWG6VkDbsXXehPQXpC4_NgwdDb5jha8yfQEesL4wabfbh4TsHMd9ynY&usqp=CAU" alt="Coding">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olanix2002&label=Profile%20views&color=0e75b6&style=flat" alt="olanix2002" /> </p>
 
