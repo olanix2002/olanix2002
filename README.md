@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olanix2002&label=Profile%20views&color=0e75b6&style=flat" alt="olanix2002" /> </p>
 
-- 🔭 I’m currently working on [Deep learning based skin cancer detection and classification]([https://github.com/olanix2002/A-Deep-Learning-Based-Skin-Cancer-Detection-and-Classification-System])
+- 🔭 I’m currently working on [Leveraging-machine-learning-to-improve-crop-yield-for-smallholder-farmer-in-sub-sahara-africa]([https://github.com/olanix2002/Leveraging-machine-learning-to-improve-crop-yield-for-smallholder-farmer-in-sub-sahara-africa]).
 
 - 💬 Ask me about **my experience learning Python, Data Analysis and Machine Learning, and how it has helped me in my data science projects**
 
 - 📫 How to reach me **ganiyuabdulwajeed2002@gmail.com**
+
+<h3 align="left">Published Article:</h3>
+-  **A step-by-step approach to building a fast API for deep learning classification projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
