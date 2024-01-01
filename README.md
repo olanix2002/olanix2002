@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganiyu Abdulwajeed</h1>
-<h3 align="center">I'm a motivated data scientist looking for an internship opportunity. I'm passionate about data analysis, machine learning, and creating data-driven solutions to real-world problems.</h3>
+<h3 align="center">Experienced machine learning engineer with a focused expertise in designing and deploying machine learning models to production, I bring a proven track record spanning over two years. Proficient in Python and SQL programming languages, I have successfully developed and implemented advanced machine learning solutions showcasing my commitment to delivering impactful results in dynamic environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olanix2002&label=Profile%20views&color=0e75b6&style=flat" alt="olanix2002" /> </p>
 
