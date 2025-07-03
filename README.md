@@ -52,12 +52,5 @@ Ladoke Akintola University of Technology, Nigeria
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ganiyu-abdulwajeed-olaniyi)
-- 📨 ganiyuolaniyi@gmail.com  
-- 🌐 [Portfolio](#) *(optional)*
-
----
-
 > _“Empowering communities through data and technology.”_
 
